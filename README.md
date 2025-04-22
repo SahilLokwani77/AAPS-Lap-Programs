@@ -1,1 +1,1 @@
-# AAPS-Lab-Programs
+"AAPS (Advanced Algorithm Problem Solving) repository contains a collection of complex algorithmic problems and solutions designed to enhance problem-solving skills. The repository includes various algorithms and data structures, implemented in multiple programming languages, to help learners and developers master advanced concepts in algorithm design and optimization."
